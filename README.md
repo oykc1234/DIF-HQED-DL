@@ -1,4 +1,7 @@
 DIF-HQED-DL: Digital Inclusive Finance and High-Quality Enterprise Development using Deep Learning
+
+![image](https://github.com/user-attachments/assets/ec55126c-7c65-4849-9d38-98e272b7ca5e)
+
 Project Overview
 This repository contains the code and resources for the research paper titled:
 "Integrating Traditional Two-way Fixed-effects Models with KAN and GCN-Enhanced Deep Learning Models: Exploring the Impact of Digital Inclusive Finance on High-Quality Development of Enterprise"
